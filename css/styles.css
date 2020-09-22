@@ -1,0 +1,37 @@
+body {
+  background-color: bisque;
+  color: slategray;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+hr {
+  border-top: dotted;
+  border-top-color: Salmon;
+  width: 30%;
+}
+
+.Table {
+  margin-left: auto;
+  margin-right: auto;
+  cellspacing:20;
+}
+.Cake{
+  width:150px;
+  height:200px;
+}
+.Cupcake{
+  width:200px;
+  height:150px;
+}
+.CupcakeHor {
+  Width:150px;
+  height:200px;
+}
+.Cookie {
+  Width:200px;
+  height:150px;
+}
